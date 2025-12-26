@@ -25,7 +25,7 @@ This project was built as part of **Per Harald Borgen’s Scrimba course** to pr
 ## 📸 Screenshots
 > _(Add screenshots of the extension popup and saved leads here)_
 ### Extension Popup
-![Extension Popup](screenshots/popup.png)
+![Extension Popup](/popup.png)
 ---
 
 ## 🚀 Getting Started
