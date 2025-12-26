@@ -22,7 +22,7 @@ This project was built as part of **Per Harald Borgen’s Scrimba course** to pr
 
 ---
 
-## 📸 Screenshots
+## 📸
 ### Extension Popup
 ![Extension Popup](/popup.png)
 
@@ -30,26 +30,17 @@ This project was built as part of **Per Harald Borgen’s Scrimba course** to pr
 
 ## 🚀 Getting Started
 
-Follow the instructions below to download, build, and run this project as a **Chrome Extension**.
+Follow the instructions below to download, build, and run this project as a Chrome Extension.
 
 ---
 
 ### 1️⃣ Clone or Download the Repository
 
-```bash
-git clone <your-github-repo-url>
-cd leads-tracker
-
-
 ### 3️⃣ Load the Extension in Chrome
 
 1. Open Google Chrome
 2. Go to:
-
-```
 chrome://extensions/
-```
-
 3. Enable Developer mode (top-right corner)
 4. Click Load unpacked
 5. Select the `dist` folder from this project
@@ -66,3 +57,6 @@ chrome://extensions/
 * View your saved leads anytime
 
 > Note: All leads are stored locally in your browser using localStorage.
+
+
+
